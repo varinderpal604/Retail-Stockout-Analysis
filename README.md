@@ -44,7 +44,7 @@ The simulation revealed that Seasonal Decor is a massive risk. It recorded the h
 ## Supply Chain Bottleneck Analysis
 
 ![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/6d496bbb9f97d1ee42918b34734868f0aaf518d4/images/Stockout-Category-and-Day.png)
-<img src="images/Table-3.png" width="400">
+<img src="images/Table-3.png" width="600">
 
 **Beverages:** The analysis identified a critical "Sunday" for this category based on the modeled truck schedule.
 
@@ -56,7 +56,7 @@ The simulation revealed that Seasonal Decor is a massive risk. It recorded the h
 ## Promotion Effectiveness Analysis
 
 ![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/6d496bbb9f97d1ee42918b34734868f0aaf518d4/images/Promotion-Effectiveness.png)
-<img src="images/Table-4.png" width="400">
+<img src="images/Table-4.png" width="600">
 
 
 Stationery items proved most responsive to price cuts in this model.
