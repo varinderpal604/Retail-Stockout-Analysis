@@ -31,9 +31,10 @@ With this validated dataset, I conducted three targeted analyses to quantify the
 ![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/3f6a3953097cd78c618c7ab7a760d4d6f9fc245d/images/Loss-Profit.png)
 <img src="images/Table-1.png" width="400">
 
-![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/3f6a3953097cd78c618c7ab7a760d4d6f9fc245d/images/Table-1.png)
-
 The simulation revealed that Seasonal Decor is a massive risk. It recorded the highest estimated profit loss, totaling $4,627. This single category accounts for over 90% of the total modeled losses, driven by extreme demand spikes in late October and December that the standard safety stock parameters failed to catch.
+
+![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/6d496bbb9f97d1ee42918b34734868f0aaf518d4/images/Loss-Profit-Without-Seasonal.png)
+<img src="images/Table-2.png" width="400">
 
 **Operational Loss:** When excluding the seasonal outliers, the data highlighted a quieter, systemic failure in steady-selling goods.
 
@@ -41,6 +42,9 @@ The simulation revealed that Seasonal Decor is a massive risk. It recorded the h
 - **Pens:** Recorded a loss of $86, indicating a flaw in the weekly replenishment logic for steady-selling stationery items.
 
 ## Supply Chain Bottleneck Analysis
+
+![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/6d496bbb9f97d1ee42918b34734868f0aaf518d4/images/Stockout-Category-and-Day.png)
+<img src="images/Table-3.png" width="400">
 
 **Beverages:** The analysis identified a critical "Sunday" for this category based on the modeled truck schedule.
 
@@ -50,6 +54,10 @@ The simulation revealed that Seasonal Decor is a massive risk. It recorded the h
 **Stationery & Snacks:** These categories showed near-zero stockouts, indicating that the current replenishment settings are enough (or holding too much safety stock) relative to demand.
 
 ## Promotion Effectiveness Analysis
+
+![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/6d496bbb9f97d1ee42918b34734868f0aaf518d4/images/Promotion-Effectiveness.png)
+<img src="images/Table-4.png" width="400">
+
 
 Stationery items proved most responsive to price cuts in this model.
 
