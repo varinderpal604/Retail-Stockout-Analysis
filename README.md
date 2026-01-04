@@ -29,7 +29,7 @@ With this validated dataset, I conducted three targeted analyses to quantify the
 ## Financial Loss Analysis
 
 ![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/3f6a3953097cd78c618c7ab7a760d4d6f9fc245d/images/Loss-Profit.png)
-<img src="images/Table-1.png" width="600">
+<img src="images/Table-1.png" width="200">
 
 ![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/3f6a3953097cd78c618c7ab7a760d4d6f9fc245d/images/Table-1.png)
 
