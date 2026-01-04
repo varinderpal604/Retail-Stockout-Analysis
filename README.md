@@ -29,6 +29,8 @@ With this validated dataset, I conducted three targeted analyses to quantify the
 ## Financial Loss Analysis
 
 ![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/3f6a3953097cd78c618c7ab7a760d4d6f9fc245d/images/Loss-Profit.png)
+<img src="images/Table-1.png" width="600">
+
 ![image_alt](https://github.com/varinderpal604/Retail-Stockout-Analysis/blob/3f6a3953097cd78c618c7ab7a760d4d6f9fc245d/images/Table-1.png)
 
 The simulation revealed that Seasonal Decor is a massive risk. It recorded the highest estimated profit loss, totaling $4,627. This single category accounts for over 90% of the total modeled losses, driven by extreme demand spikes in late October and December that the standard safety stock parameters failed to catch.
