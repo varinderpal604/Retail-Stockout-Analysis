@@ -5,11 +5,10 @@
 
 Working in the retail business, I often notice some high demand items being out of stock. I wondered out of curiosity, how much money the business might have lost in this, so I decided to experiment and analyze it.
 
-Since proprietary daily inventory logs are not publicly available, I simulated a synthetic dataset to mirror the constraints of a high-volume discount retailer. This allowed me to analyze the supply-demand dynamic without data privacy concerns.
-
+Since proprietary daily inventory logs are not publicly available, I simulated a synthetic dataset to replicate the constraints of a high-volume discount retailer.
 I designed the simulation with specific parameters to ensure realism:
 
-- **Scope:** Focused on the Top 20 High-Velocity Products (e.g., Water Bottles, Chocolate, Batteries) that drive daily footfall. SKU hierarchies were excluded to focus purely on core inventory dynamics.
+- **Scope:** Focused on the Top 20 High-Demand Products (e.g., Water Bottles, Chocolate, Batteries) that drive daily footfall. SKU hierarchies were excluded to focus purely on core inventory dynamics.
 - **Timeframe:** Covered a 6-month period (July–Dec 2025) to capture both steady everyday sales and the busy "Q4 Holiday Surge."
 - **Constraints:** Modeled a daily truck restocking schedule but for different products each day to mimic real-world logistical patterns.
 - **Schema:** The dataset tracks the daily lifecycle of inventory:
